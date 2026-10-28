@@ -1,0 +1,2 @@
+# Project rules
+Offline-first ESP32 mobility aid with local obstacle haptics, Express/MongoDB API, and React caretaker dashboard. Preserve the exact pin map in `backend/firmware/WIRING.md`; vibration decisions belong on the ESP32 and must not depend on Wi-Fi. Mark simulator data as simulated. Do not claim test measurements or replace white-cane guidance. Keep all backend code in `backend/` and frontend code in `frontend/`.

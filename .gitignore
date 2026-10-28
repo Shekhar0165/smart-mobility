@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+backend/.mongodb-memory-test/
+backend/firmware/esp32_mobility_aid/config.h
